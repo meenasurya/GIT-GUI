@@ -1,0 +1,6 @@
+public class curd{
+
+public static void main{
+System.out.println("po");
+}
+}
